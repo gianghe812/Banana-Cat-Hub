@@ -2,4 +2,3 @@ local UniverseID = game:GetService("HttpService"):JSONDecode(game:HttpGet("https
 if game.PlaceId == 1537690962 or game.PlaceId == 4079902982 then
     if getgenv().betabss then
          loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BF-BananaCat.lua"))()
-
